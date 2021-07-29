@@ -1,2 +1,2 @@
 # ML-Libraries
-Numpy, Pandas, Matplot, Seaborn
+Numpy, Pandas, Matplotlib, Seaborn
